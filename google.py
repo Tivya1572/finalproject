@@ -9,7 +9,7 @@ CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
 SCOPES = ['https://spreadsheets.google.com/feeds', 'https://www.googleapis.com/auth/drive',
           'https://www.googleapis.com/auth/spreadsheets']
 
-CLIENT_SECRET_FILE: str = 'Employee_details.json'
+CLIENT_SECRET_FILE: str = '____________.json'
 
 
 
